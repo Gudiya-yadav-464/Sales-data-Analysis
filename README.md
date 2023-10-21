@@ -1,4 +1,2 @@
-# Sales-data-Analysis
-This is my first Github repository
-<br>
-This is change by Me
+Sales data analysis 
+in this project i ahve ans some of the question so when you click on my sales ipynb file you will get all your ans .
