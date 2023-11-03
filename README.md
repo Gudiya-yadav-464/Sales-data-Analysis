@@ -4,10 +4,11 @@ Sales-data-analysis
 Hii everyone this project is all about sales analysis so let's talk about the data so i had tweleve csv files of sales data of every month so for analyse the data i have to merge the  data files into one file on the basis of same column after done this process.
 <br>
 
-I use python library numpy to cleaning and manipulating the data and for making some dashboards in python i use matplotlib library.
+I use python library numpy to cleaning and manipulating the data and for making some dashboards in python i use matplotlib library. I also use some other libraries.
 
 <br>
-So for analysing the data whe have to give ans some of the following questions.
+So for analysing the data we have to give ans some of the following questions.
+
 <br>
 
 1. what was the best year for sales? How much was earned that year?<br>
